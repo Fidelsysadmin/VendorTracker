@@ -1,0 +1,20 @@
+.sidebar.toggled {
+    overflow: visible !important;
+    width: 6.5rem!important;
+}
+
+
+.imglogo {
+    background: url('../../public/assets/img/fidel_only-logo.png');
+    height:60px;
+    margin-left:-12px;
+    margin-top:6px
+}
+
+.imglogo1{
+    background: url('../../public/assets/img/fidellogo.png');
+    height: 65px;
+    margin-top: 4px;
+    margin-left: 5px;
+    width: 62px;
+}
